@@ -72,7 +72,7 @@ The dashboard was designed to help stakeholders monitor **total sales, top categ
 
 ## 📄 Project Report
 You can also view the complete project documentation here:  
-[📘 Download Report (PDF)](./https://github.com/gauravkondane/Amazon-Sales-Dashboard-Power-BI-Project/blob/main/Amazon_Sales_Dashboard_Report_GauravKondane.pdf)
+[📘 Download Report (PDF)](https://github.com/gauravkondane/Amazon-Sales-Dashboard-Power-BI-Project/blob/main/Amazon_Sales_Dashboard_Report_GauravKondane.pdf)
 
 ---
 
