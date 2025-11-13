@@ -59,7 +59,7 @@ The dashboard was designed to help stakeholders monitor **total sales, top categ
 ---
 
 ## 📸 Dashboard Snapshot
-![Amazon Sales Dashboard](Amazon%20Sales%20Report.png)
+![Amazon Sales Dashboard](https://github.com/gauravkondane/Amazon-Sales-Dashboard-Power-BI-Project/blob/main/Amazon%20Sales%20Dashboard.png)
 
 ---
 
