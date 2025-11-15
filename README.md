@@ -66,7 +66,7 @@ The dashboard was designed to help stakeholders monitor **total sales, top categ
 ## 👤 Author
 **Gaurav Kondane**  
 📅 *November 2025*  
-🔗 [LinkedIn](https://www.linkedin.com/) *(Add your LinkedIn URL here)*  
+🔗 [LinkedIn](http://www.linkedin.com/in/gaurav-kondane-894469374) 
 
 ---
 
